@@ -3,9 +3,10 @@
 Hi im Florian Daumas aka fdaumas 42Lyon student.
 
 ---
-## IDE
+## TOOLS
 ![CLion](https://img.shields.io/badge/CLion-9cff2f?style=for-the-badge&logo=clion&logoColor=black)
 ![Neovim](https://img.shields.io/badge/Neovim-1e90ff?style=for-the-badge&logo=neovim&logoColor=black)
+![Git](https://img.shields.io/badge/Git-e69500?style=for-the-badge&logo=git&logoColor=black)
 
 ## Language
 ![C](https://img.shields.io/badge/-1e90ff?style=for-the-badge&logo=c&logoColor=black)
