@@ -17,7 +17,7 @@ Hi im Florian Daumas aka fdaumas 42Lyon student.
 
 ## contact
 
-In coming ...
+[![Linkedin](https://img.shields.io/badge/LinkedIn-1e90ff?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/florian-daumas-6499b01b9/)
 
 ## stats
 ![GitHub](https://github-readme-stats.vercel.app/api?username=fdaumas)
