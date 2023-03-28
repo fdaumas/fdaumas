@@ -9,11 +9,12 @@ Hi im Florian Daumas aka fdaumas 42Lyon student.
 ![Git](https://img.shields.io/badge/Git-e69500?style=for-the-badge&logo=git&logoColor=black)
 
 ## Language
-![C](https://img.shields.io/badge/-1e90ff?style=for-the-badge&logo=c&logoColor=black)
+![C](https://img.shields.io/badge/-9cff2?fstyle=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-1e90ff?style=for-the-badge&logo=c++&logoColor=black)
 
 ## Platforms
 ![MacOS](https://img.shields.io/badge/mac%20os-9cff2f?style=for-the-badge&logo=apple&logoColor=black)
-![Linux Mint](https://img.shields.io/badge/Linux_mint-1e90ff?style=for-the-badge&logo=linuxmint&logoColor=black)
+![Linux Mint](https://img.shields.io/badge/Linux_mint-1e90ff?style=for-the-badge&logo=linux&logoColor=black)
 
 ## contact
 
