@@ -12,6 +12,8 @@ Hi im Florian Daumas aka fdaumas 42Lyon student.
 ## Language
 ![C](https://img.shields.io/badge/C-9cff2f?style=for-the-badge&logo=&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-1e90ff?style=for-the-badge&logo=&logoColor=black)
+![TS](https://img.shields.io/badge/TS-9cff2f?style=for-the-badge&logo=&logoColor=black)
+![React](https://img.shields.io/badge/React-1e90ff?style=for-the-badge&logo=&logoColor=black)
 
 ## Platforms
 ![MacOS](https://img.shields.io/badge/mac%20os-9cff2f?style=for-the-badge&logo=apple&logoColor=black)
