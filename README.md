@@ -22,190 +22,193 @@ Hi im Florian Daumas aka fdaumas 42Lyon student.
 <img src="./img/1544x1544_catppuccin_circle.png" alt="catppuccin" width="200"/>
 
 ## School
-
-<body>
-<style>
-    .all-project {
-        display: flex;
-        flex-direction: column;
-        gap: 0.5rem;
-    }
-    .project {
-        display: flex;
-        align-items: center;
-        gap: 0.5rem;
-    }
-    .dropbox {
-        display: inline-flex;
-        align-items: center;
-    }
-</style>
 <details>
-    <summary><h4 class="dropbox">Common Core</h4></summary>
+    <summary><h4 class="dropbox" style="display: inline-flex; align-items:center;" >Common Core</h4></summary>
     <details>
-        <summary><h5 class="dropbox">Rank 00</h5></summary>
-        <div class="all-project">
-            <div class="project">
+        <summary>
+            <h5 class="dropbox" style="display: inline-flex; align-items:center;" >
+                Rank 00
+            </h5>
+        </summary>
+            <div class="project" style="display: flex; align-items: center; gap: 0.5rem">
                 <h6>Libft</h6>
                 <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/2396495" alt="fdaumas's 42 Libft Score" />
             </div>
+    </details>
+    <details>
+        <summary>
+            <h5 class="dropbox" style="display: inline-flex; align-items:center;" >
+                Rank 01
+            </h5>
+        </summary>
+        <div class="project" style="display: flex; align-items: center; gap: 0.5rem">
+            <h6>ft_printf</h6>
+            <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/2424237" alt="fdaumas's 42 ft_printf Score" />
+        </div>
+        <div class="project" style="display: flex; align-items: center; gap: 0.5rem">
+            <h6>get_next_line</h6>
+            <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/2427352" alt="fdaumas's 42 get_next_line Score" />
+        </div>
+        <div class="project" style="display: flex; align-items: center; gap: 0.5rem">
+            <h6>Born2beroot</h6>
+            <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/2429057" alt="fdaumas's 42 Born2beroot Score" />
         </div>
     </details>
     <details>
-        <summary><h5 class="dropbox">Rank 01</h5></summary>
-        <div class="all-project">
-            <div class="project">
-                <h6>ft_printf</h6>
-                <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/2424237" alt="fdaumas's 42 ft_printf Score" />
-            </div>
-            <div class="project">
-                <h6>get_next_line</h6>
-                <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/2427352" alt="fdaumas's 42 get_next_line Score" />
-            </div>
-            <div class="project">
-                <h6>Born2beroot</h6>
-                <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/2429057" alt="fdaumas's 42 Born2beroot Score" />
-            </div>
+        <summary>
+            <h5 class="dropbox" style="display: inline-flex; align-items:center;" >
+                Rank 02
+            </h5>
+        </summary>
+        <div class="project" style="display: flex; align-items: center; gap: 0.5rem">
+            <h6>push_swap</h6>
+            <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/2605708" alt="fdaumas's 42 push_swap Score" />
+        </div>
+        <div class="project" style="display: flex; align-items: center; gap: 0.5rem">
+            <h6>so_long</h6>
+            <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/2602655" alt="fdaumas's 42 so_long Score" />
+        </div>
+        <div class="project" style="display: flex; align-items: center; gap: 0.5rem">
+            <h6>pipex</h6>
+            <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/2602600" alt="fdaumas's 42 pipex Score" />
+        </div>
+        <div class="project" style="display: flex; align-items: center; gap: 0.5rem">
+            <h6>Exam ronk 02</h6>
+            <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/2602599" alt="fdaumas's 42 Exam Rank 02 Score" />
         </div>
     </details>
     <details>
-        <summary><h5 class="dropbox">Rank 02</h5></summary>
-        <div class="all-project">
-            <div class="project">
-                <h6>push_swap</h6>
-                <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/2605708" alt="fdaumas's 42 push_swap Score" />
-            </div>
-            <div class="project">
-                <h6>so_long</h6>
-                <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/2602655" alt="fdaumas's 42 so_long Score" />
-            </div>
-            <div class="project">
-                <h6>pipex</h6>
-                <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/2602600" alt="fdaumas's 42 pipex Score" />
-            </div>
-            <div class="project">
-                <h6>Exam ronk 02</h6>
-                <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/2602599" alt="fdaumas's 42 Exam Rank 02 Score" />
-            </div>
+        <summary>
+            <h5 class="dropbox" style="display: inline-flex; align-items:center;" >
+                Rank 03
+            </h5>
+        </summary>
+        <div class="project" style="display: flex; align-items: center; gap: 0.5rem">
+            <h6>minishell</h6>
+            <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/2828640" alt="fdaumas's 42 minishell Score" />
+        </div>
+        <div class="project" style="display: flex; align-items: center; gap: 0.5rem">
+            <h6>philosophers</h6>
+            <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/2837155" alt="fdaumas's 42 Philosophers Score" />
+        </div>
+        <div class="project" style="display: flex; align-items: center; gap: 0.5rem">
+            <h6>Exam rank 03</h6>
+            <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/2847711" alt="fdaumas's 42 Exam Rank 03 Score" />
         </div>
     </details>
     <details>
-        <summary><h5 class="dropbox">Rank 03</h5></summary>
-        <div class="all-project">
-            <div class="project">
-                <h6>minishell</h6>
-                <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/2828640" alt="fdaumas's 42 minishell Score" />
-            </div>
-            <div class="project">
-                <h6>philosophers</h6>
-                <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/2837155" alt="fdaumas's 42 Philosophers Score" />
-            </div>
-            <div class="project">
-                <h6>Exam rank 03</h6>
-                <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/2847711" alt="fdaumas's 42 Exam Rank 03 Score" />
-            </div>
+        <summary>
+            <h5 class="dropbox" style="display: inline-flex; align-items:center;" >
+                Rank 04
+            </h5>
+        </summary>
+        <div class="project" style="display: flex; align-items: center; gap: 0.5rem">
+            <h6>NetPratice</h6>
+            <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/2871258" alt="fdaumas's 42 NetPractice Score" />
         </div>
-    </details>
-    <details>
-        <summary><h5 class="dropbox">Rank 04</h5></summary>
-            <div class="project">
-                <h6>NetPratice</h6>
-                <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/2871258" alt="fdaumas's 42 NetPractice Score" />
-            </div>
-            <div class="project">
-                <h6>Cub3D</h6>
-                <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/2934373" alt="fdaumas's 42 cub3d Score" />
-            </div>
-            <div class="project">
-                <h6>Exam rank 04</h6>
-                <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/2981943" alt="fdaumas's 42 Exam Rank 04 Score" />
-            </div>
+        <div class="project" style="display: flex; align-items: center; gap: 0.5rem">
+            <h6>Cub3D</h6>
+            <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/2934373" alt="fdaumas's 42 cub3d Score" />
+        </div>
+        <div class="project" style="display: flex; align-items: center; gap: 0.5rem">
+            <h6>Exam rank 04</h6>
+            <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/2981943" alt="fdaumas's 42 Exam Rank 04 Score" />
+        </div>
         <details>
-            <summary><h6 class="dropbox">CPP</h6></summary>
-            <div class="all-project">
-                <div class="project">
-                    <h6>CPP Module 00</h6>
-                    <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/2878713" alt="fdaumas's 42 CPP Module 00 Score" />
-                </div>
-                <div class="project">
-                    <h6>CPP Module 01</h6>
-                    <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/2882102" alt="fdaumas's 42 CPP Module 01 Score" />
-                </div>
-                <div class="project">
-                    <h6>CPP Module 02</h6>
-                    <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/2884814" alt="fdaumas's 42 CPP Module 02 Score" />
-                </div>
-                <div class="project">
-                    <h6>CPP Module 03</h6>
-                    <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/2888786" alt="fdaumas's 42 CPP Module 03 Score" />
-                </div>
-                <div class="project">
-                    <h6>CPP Module 04</h6>
-                    <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/2893324" alt="fdaumas's 42 CPP Module 04 Score" />
-                </div>
+            <summary>
+                <h6 class="dropbox" style="display: inline-flex; align-items:center;" >
+                    CPP
+                </h6>
+            </summary>
+            <div class="project" style="display: flex; align-items: center; gap: 0.5rem">
+                <h6>CPP Module 00</h6>
+                <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/2878713" alt="fdaumas's 42 CPP Module 00 Score" />
+            </div>
+            <div class="project" style="display: flex; align-items: center; gap: 0.5rem">
+                <h6>CPP Module 01</h6>
+                <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/2882102" alt="fdaumas's 42 CPP Module 01 Score" />
+            </div>
+            <div class="project" style="display: flex; align-items: center; gap: 0.5rem">
+                <h6>CPP Module 02</h6>
+                <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/2884814" alt="fdaumas's 42 CPP Module 02 Score" />
+            </div>
+            <div class="project" style="display: flex; align-items: center; gap: 0.5rem">
+                <h6>CPP Module 03</h6>
+                <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/2888786" alt="fdaumas's 42 CPP Module 03 Score" />
+            </div>
+            <div class="project" style="display: flex; align-items: center; gap: 0.5rem">
+                <h6>CPP Module 04</h6>
+                <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/2893324" alt="fdaumas's 42 CPP Module 04 Score" />
             </div>
         </details>
     </details>
     <details>
-    <summary><h5 class="dropbox">Rank 05</h5></summary>
-        <div class="all-project">
-            <div class="project">
-                <h6>Inception</h6>
-                <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/2996249" alt="fdaumas's 42 Inception Score" />
-            </div>
-            <div class="project">
-                <h6>ft_irc</h6>
-                <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/2988720" alt="fdaumas's 42 ft_irc Score" />
-            </div>
-            <div class="project">
-                <h6>Exam rank 05</h6>
-                <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/3020883" alt="fdaumas's 42 Exam Rank 05 Score" />
-            </div>
+        <summary>
+            <h5 class="dropbox" style="display: inline-flex; align-items:center;" >
+                Rank 05
+            </h5>
+        </summary>
+        <div class="project" style="display: flex; align-items: center; gap: 0.5rem">
+            <h6>Inception</h6>
+            <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/2996249" alt="fdaumas's 42 Inception Score" />
+        </div>
+        <div class="project" style="display: flex; align-items: center; gap: 0.5rem">
+            <h6>ft_irc</h6>
+            <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/2988720" alt="fdaumas's 42 ft_irc Score" />
+        </div>
+        <div class="project" style="display: flex; align-items: center; gap: 0.5rem">
+            <h6>Exam rank 05</h6>
+            <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/3020883" alt="fdaumas's 42 Exam Rank 05 Score" />
         </div>
         <details>
-            <summary><h6 class="dropbox">CPP</h6></summary>
-                <div class="all-project">
-                    <div class="project">
-                        <h6>CPP Module 05</h6>
-                        <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/2895429" alt="fdaumas's 42 CPP Module 05 Score" />
-                    </div>
-                    <div class="project">
-                        <h6>CPP Module 06</h6>
-                        <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/2908538" alt="fdaumas's 42 CPP Module 06 Score" />
-                    </div>
-                    <div class="project">
-                        <h6>CPP Module 07</h6>
-                        <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/2909624" alt="fdaumas's 42 CPP Module 07 Score" />
-                    </div>
-                    <div class="project">
-                        <h6>CPP Module 08</h6>
-                        <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/2910271" alt="fdaumas's 42 CPP Module 08 Score" />
-                    </div>
-                    <div class="project">
-                        <h6>CPP Module 09</h6>
-                        <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/3030890" alt="fdaumas's 42 CPP Module 09 Score" />
-                    </div>
-                </div>
+            <summary>
+                <h6 class="dropbox" style="display: inline-flex; align-items:center;" >
+                    CPP
+                </h6>
+            </summary>
+            <div class="project" style="display: flex; align-items: center; gap: 0.5rem">
+                <h6>CPP Module 05</h6>
+                <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/2895429" alt="fdaumas's 42 CPP Module 05 Score" />
+            </div>
+            <div class="project" style="display: flex; align-items: center; gap: 0.5rem">
+                <h6>CPP Module 06</h6>
+                <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/2908538" alt="fdaumas's 42 CPP Module 06 Score" />
+            </div>
+            <div class="project" style="display: flex; align-items: center; gap: 0.5rem">
+                <h6>CPP Module 07</h6>
+                <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/2909624" alt="fdaumas's 42 CPP Module 07 Score" />
+            </div>
+            <div class="project" style="display: flex; align-items: center; gap: 0.5rem">
+                <h6>CPP Module 08</h6>
+                <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/2910271" alt="fdaumas's 42 CPP Module 08 Score" />
+            </div>
+            <div class="project" style="display: flex; align-items: center; gap: 0.5rem">
+                <h6>CPP Module 09</h6>
+                <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/3030890" alt="fdaumas's 42 CPP Module 09 Score" />
+            </div>
         </details>
     </details>
     <details>
-    <summary><h5 class="dropbox">Rank 06</h5></summary>
-        <div class="project">
+        <summary>
+            <h5 class="dropbox" style="display: inline-flex; align-items:center;" >
+                Rank 06
+            </h5>
+        </summary>
+        <div class="project" style="display: flex; align-items: center; gap: 0.5rem">
             <h6>ft_transcendence</h6>
             <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/3136008" alt="fdaumas's 42 ft_transcendence Score" />
         </div>
-        <div class="project">
+        <div class="project" style="display: flex; align-items: center; gap: 0.5rem">
             <h6>Exam rank 06</h6>
             <img src="https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/project/3210059" alt="fdaumas's 42 Exam Rank 06 Score" />
         </div>
-    </details>
+        </details>
 </details>
 <br>
 <details>
-<summary><h4 class="dropbox">Post Common Core</h4></summary>
+<summary><h4 class="dropbox" style="display: inline-flex; align-items:center;" >Post Common Core</h4></summary>
     hello world
 </details>
-</body>
 
 ## contact
 
