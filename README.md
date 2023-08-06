@@ -1,21 +1,4 @@
-<style>
-    .all-project {
-        display: flex;
-        flex-direction: column;
-        gap: 0.5rem;
-    }
-    .project {
-        display: flex;
-        align-items: center;
-        gap: 0.5rem;
-    }
-    .dropbox {
-        display: inline-flex;
-        align-items: center;
-    }
-</style>
 ### Hey there
-
 Hi im Florian Daumas aka fdaumas 42Lyon student.
 
 ---
@@ -39,6 +22,24 @@ Hi im Florian Daumas aka fdaumas 42Lyon student.
 <img src="./img/1544x1544_catppuccin_circle.png" alt="catppuccin" width="200"/>
 
 ## School
+
+<body>
+<style>
+    .all-project {
+        display: flex;
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+    .project {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+    }
+    .dropbox {
+        display: inline-flex;
+        align-items: center;
+    }
+</style>
 <details>
     <summary><h4 class="dropbox">Common Core</h4></summary>
     <details>
@@ -204,6 +205,7 @@ Hi im Florian Daumas aka fdaumas 42Lyon student.
 <summary><h4 class="dropbox">Post Common Core</h4></summary>
     hello world
 </details>
+</body>
 
 ## contact
 
