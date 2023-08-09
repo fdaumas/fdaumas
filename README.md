@@ -214,5 +214,5 @@ Hi im Florian Daumas aka fdaumas 42Lyon student.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-c6a0f6?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/florian-daumas-6499b01b9/)
 ## stats
-![GitHub](https://github-readme-stats.vercel.app/api?username=fdaumas)
+![GitHub](https://github-readme-stats.vercel.app/api?username=fdaumas&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be)
 [![fdaumas's 42 stats](https://badge42.vercel.app/api/v2/cl9u8ui1e00730flhx740vroj/stats?cursusId=21&coalitionId=303)](https://github.com/JaeSeoKim/badge42)
